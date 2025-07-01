@@ -365,8 +365,6 @@ Once you're comfortable with HTML and CSS:
 
 ---
 
-🧠 Want a GitHub Wiki or LiveDocs version of this too? I can break this into individual pages (Markdown chapters) with examples and starter files — just ask!
-
 **Happy coding! 🔥**
 
 ---
